@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  justify-content: center;
+  position: static;
+  font-family: "Fira Sans";
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+
+}
+
+.header h1 {
+  text-align: center;
+  background: lightgrey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.body{
+  display: inline-block;
+  justify-content: center;
+  position: static;
+  font-family: "Fira Sans";
+  background: lightgrey;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+}
+
+.bodyAndHeader{
+  display: inline-block;
+  justify-content: center;
+  position: static;
+  font-family: "Fira Sans";
+  background: lightgrey;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+}
+
+.bodyAndHeader h2{
+  display: inline-block;
+}
